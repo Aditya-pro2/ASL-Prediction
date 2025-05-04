@@ -1,3 +1,0 @@
-The link to the dataset is given below:
-
-https://www.kaggle.com/grassknoted/asl-alphabet
