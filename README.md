@@ -52,4 +52,18 @@ A feed forward deep learning neural network designed for processing structured a
 
 ## CNN Model Results
 
-<p align = "center"> <img src = "https://github.com/Aditya-pro2/ASL-Prediction/blob/main/Images/Model%20Accuracy.jpg" width = "800"> </p>
+<p align = "center"> <img src = "https://github.com/Aditya-pro2/ASL-Prediction/blob/main/Images/Model%20Results.png" width = "800"> </p>
+
+## CNN Model Accuracy
+
+After training and testing the CNN model we can conclude that it reaches a training accuracy of 98.74% and validation accuracy of 99.25% which shows that the CNN model has gained a very high precision.
+
+<p align = "center"> <img src = "https://github.com/Aditya-pro2/ASL-Prediction/blob/main/Images/Model%20Accuracy.png" width = "800"> </p>
+
+## Confusion Matrix
+
+<p align = "center"> <img src = "https://github.com/Aditya-pro2/ASL-Prediction/blob/main/Images/Confusion%20Matrix.png" width = "800"> </p>
+
+## Conclusion
+
+In this project we have used CNN to recognize the American Sign Language. This approach is used to train the dataset which perfroms well and gives a validation accuracy of 99.25% .
