@@ -1,4 +1,4 @@
-# American Sign language (ASL) Prediction
+# American Sign Language (ASL) Prediction
 
 <p align = "center"> <img src = "https://github.com/Aditya-pro2/ASL-Prediction/blob/main/Images/ASL.jpg" width = "800"> </p>
 
